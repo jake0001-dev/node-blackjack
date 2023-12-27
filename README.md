@@ -1,1 +1,3 @@
-How to run : <code>node index.js</code>
+How to run : 
+<code>npm i</code>
+<code>node index.js</code>
